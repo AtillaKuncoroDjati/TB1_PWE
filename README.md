@@ -45,6 +45,16 @@ Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, 
 
 ---
 
+## 6. Tampilan Ketika Produk Ada Yang di Delete
+Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/68a39b73-4bee-4be3-8845-ef2745a7333e" alt="Tampilan Delete Produk" width="600">
+</div>
+
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
