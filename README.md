@@ -1,3 +1,50 @@
+# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+
+## 1. Tampilan Pada Menu Homepage
+Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mudah dan cepat untuk mengakses fitur-fitur utama.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dd064d79-3743-41ac-9402-570a970559c2" alt="Tampilan Homepage" width="600">
+</div>
+
+---
+
+## 2. Tampilan Pada Menu Produk
+Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pengguna dapat melihat dan mengelola produk secara efisien.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/481eaff4-cc56-472d-a4ab-07f19a38237f" alt="Tampilan Produk" width="600">
+</div>
+
+---
+
+## 3. Tampilan Pada Add Produk
+Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan user-friendly.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ed6ad95-07b9-4f5c-ba51-1002d3082734" alt="Tampilan Add Produk" width="600">
+</div>
+
+---
+
+## 4. Tampilan Untuk Edit Produk
+Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir dengan baik, memudahkan pengguna dalam memperbarui informasi produk.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f1bca197-d177-4424-bb1d-9ed8deb9ce52" alt="Tampilan Edit Produk" width="600">
+</div>
+
+---
+
+## 5. Database di MySQL
+Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, memastikan data tersimpan dengan aman dan terorganisir.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/656b2618-ddca-4156-9822-663944b0dae9" alt="Database di MySQL" width="600">
+</div>
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +111,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
